@@ -31,6 +31,14 @@ Criar uma aplicação web para uma ONG fictícia, permitindo apresentar informa�
 - `js/` - scripts JavaScript
 - `imagens/` - recursos visuais
 
+## Como executar o projeto
+
+1. Baixe ou clone este repositório.
+2. Abra a pasta do projeto no Visual Studio Code.
+3. Abra o arquivo `html/index.html`.
+4. Execute o projeto utilizando a extensão Live Server.
+5. A aplicação será aberta no navegador e poderá ser utilizada localmente.
+
 ## Status
 
 Projeto em desenvolvimento.
